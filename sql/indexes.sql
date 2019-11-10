@@ -1,0 +1,11 @@
+create index analyzed_data_hardware_score_idx on analyzed_data(hardware_score);
+create index analyzed_data_software_score_idx on analyzed_data(software_score);
+create index analyzed_data_savviness_index_idx on analyzed_data(savviness_index);
+create index analyzed_data_protection_opinion_idx on analyzed_data(protection_opinion);
+create index analyzed_data_fear_idx on analyzed_data(fear);
+create index analyzed_data_anger_idx on analyzed_data(anger);
+create index analyzed_data_confident_idx on analyzed_data(confident);
+create index analyzed_data_joy_idx on analyzed_data(joy);
+create index analyzed_data_sadness_idx on analyzed_data(sadness);
+create index analyzed_data_analytical_idx on analyzed_data(analytical);
+create index analyzed_data_tentative_idx on analyzed_data(tentative);

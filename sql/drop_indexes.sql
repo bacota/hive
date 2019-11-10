@@ -1,0 +1,11 @@
+drop index analyzed_data_hardware_score_idx;
+drop index analyzed_data_software_score_idx;
+drop index analyzed_data_savviness_index_idx;
+drop index analyzed_data_protection_opinion_idx;
+drop index analyzed_data_fear_idx;
+drop index analyzed_data_anger_idx;
+drop index analyzed_data_confident_idx;
+drop index analyzed_data_joy_idx;
+drop index analyzed_data_sadness_idx;
+drop index analyzed_data_analytical_idx;
+drop index analyzed_data_tentative_idx ;
